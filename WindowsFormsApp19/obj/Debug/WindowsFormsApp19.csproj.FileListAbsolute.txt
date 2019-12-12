@@ -1,0 +1,122 @@
+C:\Users\kurni\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+C:\Users\kurni\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+C:\Users\kurni\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+C:\Users\kurni\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csprojAssemblyReference.cache
+C:\Users\kurni\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form1.resources
+C:\Users\kurni\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form2.resources
+C:\Users\kurni\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form3.resources
+C:\Users\kurni\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form4.resources
+C:\Users\kurni\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form5.resources
+C:\Users\kurni\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\kurni\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\kurni\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\kurni\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+C:\Users\kurni\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form1.resources
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form2.resources
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form3.resources
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form4.resources
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form5.resources
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CopyComplete
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb
+C:\Users\Tomy Isa\source\repos\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+C:\Users\Tomy Isa\source\repos\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+C:\Users\Tomy Isa\source\repos\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+C:\Users\Tomy Isa\source\repos\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\MySql.Data.xml
+C:\Users\Tomy Isa\source\repos\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csprojAssemblyReference.cache
+C:\Users\Tomy Isa\source\repos\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form1.resources
+C:\Users\Tomy Isa\source\repos\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form2.resources
+C:\Users\Tomy Isa\source\repos\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form3.resources
+C:\Users\Tomy Isa\source\repos\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form4.resources
+C:\Users\Tomy Isa\source\repos\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form5.resources
+C:\Users\Tomy Isa\source\repos\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\Tomy Isa\source\repos\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\Tomy Isa\source\repos\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\Tomy Isa\source\repos\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CopyComplete
+C:\Users\Tomy Isa\source\repos\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+C:\Users\Tomy Isa\source\repos\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb
+C:\Users\ASUS\Downloads\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+C:\Users\ASUS\Downloads\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+C:\Users\ASUS\Downloads\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+C:\Users\ASUS\Downloads\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Downloads\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Downloads\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form1.resources
+C:\Users\ASUS\Downloads\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form2.resources
+C:\Users\ASUS\Downloads\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form3.resources
+C:\Users\ASUS\Downloads\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form4.resources
+C:\Users\ASUS\Downloads\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form5.resources
+C:\Users\ASUS\Downloads\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\ASUS\Downloads\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CopyComplete
+C:\Users\ASUS\Downloads\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+C:\Users\ASUS\Downloads\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb
+C:\Users\ASUS\Downloads\WindowsFormsApp19_(1)\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form6.resources
+C:\Users\adhis\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+C:\Users\adhis\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+C:\Users\adhis\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+C:\Users\adhis\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\MySql.Data.xml
+C:\Users\adhis\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csprojAssemblyReference.cache
+C:\Users\adhis\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form1.resources
+C:\Users\adhis\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form2.resources
+C:\Users\adhis\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form3.resources
+C:\Users\adhis\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form4.resources
+C:\Users\adhis\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form5.resources
+C:\Users\adhis\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form6.resources
+C:\Users\adhis\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\adhis\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\adhis\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\adhis\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CopyComplete
+C:\Users\adhis\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+C:\Users\adhis\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb
+C:\Users\adhis\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.HalamanAdmin.resources
+C:\Users\adhis\source\repos\WindowsFormsApp19_rev\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+C:\Users\adhis\source\repos\WindowsFormsApp19_rev\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+C:\Users\adhis\source\repos\WindowsFormsApp19_rev\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+C:\Users\adhis\source\repos\WindowsFormsApp19_rev\WindowsFormsApp19\bin\Debug\MySql.Data.xml
+C:\Users\adhis\source\repos\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csprojAssemblyReference.cache
+C:\Users\adhis\source\repos\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form1.resources
+C:\Users\adhis\source\repos\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form2.resources
+C:\Users\adhis\source\repos\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form3.resources
+C:\Users\adhis\source\repos\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form4.resources
+C:\Users\adhis\source\repos\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form5.resources
+C:\Users\adhis\source\repos\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form6.resources
+C:\Users\adhis\source\repos\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.HalamanAdmin.resources
+C:\Users\adhis\source\repos\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\adhis\source\repos\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\adhis\source\repos\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\adhis\source\repos\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CopyComplete
+C:\Users\adhis\source\repos\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+C:\Users\adhis\source\repos\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb
+C:\Users\adhis\source\repos\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Keranjang.resources
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.HalamanTIket.resources
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.HalamanLogin.resources
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.HalamanDaftar.resources
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.HalamanDetilTiket.resources
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.HalamanBayar.resources
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.EditData.resources
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.HalamanAdmin.resources
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Keranjang.resources
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CopyComplete
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+C:\Users\ASUS\Documents\Kuliah\PPK\WindowsFormsApp19_rev\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb
